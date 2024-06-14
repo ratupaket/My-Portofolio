@@ -19,7 +19,6 @@ import {
 	eventlify,
 	flutter,
 	freelance,
-	ofcwebsite,
 	galeri,
 	game_2048,
 	kucing,
@@ -157,27 +156,6 @@ const experiences = [
 ];
 
 const projects = [
-	{
-		name: 'Ofc Website Ratu Paket',
-		description:
-			'Website ini berisi tentang Ratu Paket Lebaran, di mulai dari didirikannya dan menampilkan anggota resmi',
-		tags: [
-			{
-				name: 'html',
-				color: 'blue-text-gradient',
-			},
-			{
-				name: 'css',
-				color: 'green-text-gradient',
-			},
-			{
-				name: 'javascript',
-				color: 'pink-text-gradient',
-			},
-		],
-		image: ofcwebsite,
-		website_link: 'https://www.ratupaket.com',
-	},
 	{
 		name: 'E - Katalog Ratu Paket',
 		description:
