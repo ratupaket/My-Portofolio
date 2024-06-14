@@ -69,7 +69,6 @@ export {
 	doctoratwork,
 	doctoratwork1,
 	e_commerce,
-	ofcwebsite,
 	e_katalog,
 	kucing,
 	galeri,
