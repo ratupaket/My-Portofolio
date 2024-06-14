@@ -41,7 +41,6 @@ import kucing from './kucing.png';
 import currency_list from './currency_list.jpg';
 import dcreative from './dcreative.jpg';
 import e_commerce from './e_commerce.jpg';
-import ofcwebsite from './ofc_Website.png';
 import e_katalog from './e_katalog.png';
 import eventlify from './eventlify.jpg';
 import game_2048 from './game_2048.jpg';
